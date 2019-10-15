@@ -14,6 +14,7 @@ Links to the databases:
 - [IDOC Mugshots](https://www.kaggle.com/elliotp/idoc-mugshots)
 
 All these pictures are different sizes and we still need inputs and targets so we use our image preprocessor script.
+For this repository we only included a small number of pictures as an example.
 
 ### Data preparing
 Our project aims to upscale 64x64 images to 256X256, a scaling factor of 4x. To train our network, we use the 256X256 pictures as targets and their downscaled version as inputs.
