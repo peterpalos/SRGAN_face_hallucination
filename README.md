@@ -6,6 +6,7 @@ co-author: [Márton Hévizi](https://github.com/habarcs)
 
 # SRGAN implementation
 The input of the network will be low resolution portraits. The goal is to upscale the pictures and accurately fill in the missing information, predicting what the individual may have looked like.
+
 Implementation of [this article](https://arxiv.org/pdf/1609.04802.pdf).
 Based on [this code](https://github.com/eriklindernoren/Keras-GAN/blob/master/srgan/srgan.py).
 
