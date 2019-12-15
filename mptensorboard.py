@@ -26,7 +26,6 @@ fig.show()
 fig = px.line(df, title='Generator losses (Discriminator)')
 fig.add_scatter(x=df.index, y=df['g_loss_d'], mode='lines', name='Train')
 fig.add_scatter(x=df.index, y=df['val_g_loss_d'], mode='lines', name='Validation')
-
 fig.show()
 
 fig = px.line(df, title='Generator losses (VGG19)')
