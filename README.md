@@ -2,7 +2,7 @@
 #### SmartLab - Deep Learning in practice - home project
 Upscaling low resolution images of people's faces to higher resolutions by using Single Image Super-Resolution Deep Neural Networks.
 
-co-author: [Márton Hévizi](https://github.com/habarcs)
+authors: [Márton Hévizi](https://github.com/habarcs) and [Péter Pálos](https://github.com/peterpalos)
 
 # SRGAN implementation
 The input of the network will be low resolution portraits. The goal is to upscale the pictures and accurately fill in the missing information, predicting what the individual may have looked like.
