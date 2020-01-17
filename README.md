@@ -11,7 +11,7 @@ Implementation of [this article](https://arxiv.org/pdf/1609.04802.pdf).
 Based on [this code](https://github.com/eriklindernoren/Keras-GAN/blob/master/srgan/srgan.py).
 
 ### Database
-For training our network, we use a database with over 100000 pictures.
+For training our network, we use a database with over 65000 pictures.
 Link to the database:
 - [IDOC Mugshots](https://www.kaggle.com/elliotp/idoc-mugshots)
 
