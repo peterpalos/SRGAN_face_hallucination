@@ -31,6 +31,6 @@ We had some GPU issues therefore the code is on Colab. You can reach it [here](h
 
 The datasets are also included so it is easy to run (MPSRGAN).
 
-The code logs the losses automatically in a .csv file but we attach one.
+The code logs the losses automatically in a .csv file.
 
 It can be read with MPtensorboard for the training and validation graphs.
